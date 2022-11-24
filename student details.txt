@@ -1,0 +1,28 @@
+sno=int(input('enter student no:'))
+enter student no:40
+name=input('enter student name:')
+enter student name:Lahari
+group=input('enter group:')
+enter group:BCA
+gender=input('enter gender:')
+enter gender:Female
+phno=input('enter phnone no:')
+enter phnone no:9876543210
+address=input('enter address:')
+enter address:simhachalam
+degreepercentage=input('enter percentage:')
+enter perc:78
+print('sno:',sno)
+sno: 40
+print('name:',name)
+name: Lahari
+print('group:',group)
+group: BCA
+print('gender:',gender)
+gender: Female
+print('phno:',phno)
+phno: 9876543210
+print('address:',address)
+address: simhachalam
+print('degreepercentage:',degreepercentage)
+degreepercentage: 78
